@@ -1,5 +1,7 @@
 # GLaDOS: Advanced Voice Assistant Inspired by Portal
 ![listening](https://github.com/SmolinskiP/glados_assistant/assets/49648588/b2604584-9aeb-4d17-80a4-15899edbb3b9)
+
+
 Meet **GLaDOS**, my state-of-the-art voice assistant, meticulously crafted to emulate the iconic character from the critically acclaimed game, *Portal*. This isn't just any voice assistant—it's an immersive experience that blends advanced technology with the dark humor and sharp wit that made GLaDOS a legendary figure in gaming history.
 
 ## Features
